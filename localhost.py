@@ -30,6 +30,7 @@ Content-Type: text/html; charset=UTF-8
 <img src="https://scontent.fsin2-1.fna.fbcdn.net/v/t31.0-8/13909211_1508765882482969_6609958311137836869_o.jpg?_nc_cat=105&ccb=2&_nc_sid=174925&_nc_ohc=lkhyelQbnt4AX8IiTqr&_nc_ht=scontent.fsin2-1.fna&oh=81e1c487b4f589ecd8093fb12e8b14e0&oe=604386F6" width="400" height="400" alt="hammerite">
 <img src="https://lh3.googleusercontent.com/mc65-PSwZtZwbtf2l4Ou1XePzLVQeli6I3f8rRyRi0nArW7sTbnnJNFMkU0ujLXbT8Q0h9686njSdJ2HzaZwKMxWICSNmfkWGqLMwD3iFHR8Hq-tlMpDmtZ65RCkzR7GHJ52bFGcrQchD4_kYUutb9tb0Ue0-ieVWsjviLBwl-9FLB-xZXgF42ihoxOR0fQ6wGwRN3My4uHukyZqI-uNxUnM4DT7pWWSbgEBbcFK4Zr2fUShAp1Iw8qNJH36dnvhdDQORmrVCQ7G_8DHuheXN5nXUYm_ugRh4ylqOfSjy_sdoqMB3cLk8DLZ6I84gGUAg0JT21rYU3VtXGJy5w8lcYeEYVmJaNYFlSvGhGfJOFQrn7j23YM4sxoYMX1JKb7NnKhJU1mqwG-Mfh7zmiQwLFvYC2YvrhYHXZSyxZo_CmpoNLtRlLwElJfmxEb8NrKOMharPvxYXSM8jVlv1d7Sg5Nu4T_CyivGXqt6YPrvxANulRu1RF-3Bpmxk5HScZvYgzMQNkmQ2EreTSd3vSM55ftJe6qeANbjRUt51zWSpGoUysz1ziQXxyYb5e8Ai3Qo9jSUlcv8WRqZ0O0nSC7_mPKLeaILeuupd_xpOOAkTYofzfcxPn9lBqv1nlcARirs4mG1gpcjrP-RhXtdMHaR5gNrYTHzKZwzeO3p-F-oodLAeNKmaRmNAsgsrOVVt4I=w694-h927-no?authuser=0"width="400" height="400" alt="hairul">
 <img src="https://media.discordapp.net/attachments/696996342165143604/807511004560490527/image0.jpg?width=507&height=676" alt="afif picture">
+<img src="https://raw.githubusercontent.com/Cybot123/DA_hammerites/master/Hammerites%20photo.jpeg?token=AQCWM5WUZQR3SLO42O2VMBDADZB6O"
 </body>
 </html>
 """
